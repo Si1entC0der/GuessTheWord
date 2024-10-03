@@ -1,0 +1,26 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root {
+	-fx-background-color: black;
+}
+.text-field{
+	-fx-text-fill:white;
+	-fx-font-weight: bold;
+	-fx-font-size: 20px;
+	-fx-alignment: center ;
+}
+
+.custom {
+  -fx-control-inner-background: black;
+}
+
+.success {
+	-fx-control-inner-background: green;
+}
+
+.orange {
+	-fx-control-inner-background: #c7ae0a;
+}
+.black {
+	-fx-control-inner-background: yellow;
+}
+
